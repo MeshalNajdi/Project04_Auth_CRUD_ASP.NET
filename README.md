@@ -1,4 +1,4 @@
-# Project04_Auth_CRUD_ASP.NET
+# Courses :
 
 <div dir="rtl" align="right">
 
@@ -9,7 +9,7 @@
 ---------------------------------
 ![Tuwaiq](https://i.ibb.co/SV2BSn5/tuwaiq.png)
 ----
-# (HjtProject) | اسم التطبيق
+# (Courses ) | اسم التطبيق
   .......
 ### المقدمــة | Introduction 
 هذا الموقع يمكن مستخدميه بالتسجيل في برنامج دراسي موفر من قبل منظمات معينه , و تدرس من قبل محاضرين منتسبين الى هذه المنظمات . 
